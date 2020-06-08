@@ -1,0 +1,3 @@
+= Properties for Project
+
+Repositório com arquivos de propriedade para serem usados com spring cloud config..
